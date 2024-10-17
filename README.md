@@ -16,7 +16,7 @@
 - 👯 **Collaborating On:** Open-source **Data Science** and **ML** projects to solve real-world problems.
 - 🤝 **Looking For Help:** Expanding my knowledge in **AI-based reinforcement learning** and **automating machine learning pipelines**.
 - 💬 **Ask Me About:** **Data Science, Machine Learning, AI, Python, and Deploying ML Models into Production**.
-- 📫 **Reach Me At:** tharushakamalanath@gmail.com
+- 📫 **Reach Me At:** tharushakamalanath@gmail.com , [LinkedIn](https://www.linkedin.com/in/tharushakamalanath)
 - ⚡ **Fun Fact:** I’m a huge fan of solving puzzles and exploring tech innovations that bridge the gap between humans and AI.
 
 ---
