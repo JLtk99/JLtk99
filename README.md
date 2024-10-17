@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jasenthu Liyanage Tharusha Kamalanath</h1>
+<h1 align="center">Hi 👋, I'm Tharusha Kamalanath</h1>
 <h3 align="center">Aspiring Data Science and Machine Learning Professional 🚀 | Hands-on in Data Analysis, Predictive Modeling, and AI-driven Solutions</h3>
 
 <p align="center">
